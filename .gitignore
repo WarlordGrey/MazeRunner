@@ -1,0 +1,9 @@
+Unity.PackageManagerUI.Editor.csproj
+UnityEditor.StandardEvents.csproj
+Library
+Temp
+/*.sln
+/*.csproj
+/.vs
+/obj
+/Logs
